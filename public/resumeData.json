@@ -1,40 +1,41 @@
 {
   "main": {
-    "name": "Sonny Sangha",
-    "occupation": "ReactJS Developer && Instructor @CleverProgrammer",
-    "description": "Full Stack React Developer by Day, Founder && Freelancer by Night. #papaReact",
-    "image": "IG_Sonny.jpeg",
-    "bio": "My name is Sonny, I'm a Full Stack ReactJS Developer. Currently I'm working at Clever Programmer while also coaching ",
+    "name": "Sabuj Hasan Sarker",
+    "occupation": "Full stack web developer",
+    "description": "Full Stack React Developer by Day, Founder && Freelancer by Night. ",
+    "image": "sabuj-hasan-sarker.jpg",
+    "bio": "My name is Sabuj, I'm a Full Stack ReactJS Developer. Currently I'm working at Candy Crab while also programming ",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
-    "email": "sonny@cleverprogrammer.com",
-    "phone": "+44 12 345 6789",
+    "email": "sabujhasansarker@gmail.com",
+    "phone": "+880 19 482 56275",
     "address": {
-      "street": "123 Fake Street",
-      "city": "London",
-      "state": "UK",
+      "street": "Jatrabari",
+      "city": "Dhaka",
+      "state": "BD",
       "zip": "ABC 123"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload": "http://timbakerdev.com",
+
+    "website": "#",
+    "resumedownload": "#",
     "social": [
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
+        "url": "https://www.facebook.com/sabujhasansarkr",
         "className": "fa fa-facebook"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha/",
+        "url": "https://www.linkedin.com/in/sabujhasansrker/",
         "className": "fa fa-linkedin"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
+        "url": "https://www.instagram.com/sabujhasansarker/",
         "className": "fa fa-instagram"
       },
       {
         "name": "github",
-        "url": "http://github.com/sonnysangha",
+        "url": "http://github.com/sabujhasansarker",
         "className": "fa fa-github"
       }
     ]
@@ -43,24 +44,18 @@
     "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
     "education": [
       {
-        "school": "University of Kent",
-        "degree": "Masters in Advanced Computer Science",
-        "graduated": "January 2017",
+        "school": "Habibullah bahar college",
+        "degree": "Bachelor degree of management",
+        "graduated": "Jun 2020",
         "description": "Graduated with Distinction"
       }
     ],
     "work": [
       {
-        "company": "Clever Programmer",
+        "company": "Candy Crab",
         "title": "Team Member && React Specialist",
-        "years": "April 2020 - Present",
-        "description": "Teaching ReactJS to thousands of students."
-      },
-      {
-        "company": "Lindar Media",
-        "title": "Software Engineer",
-        "years": "Nov 2019 - April 2020",
-        "description": "Building MrQ, a gambling website."
+        "years": "August 2020 - Present",
+        "description": "find problem and try to solve this."
       }
     ],
     "skills": [
@@ -77,8 +72,16 @@
         "level": "60%"
       },
       {
-        "name": "Figma && Adobe XD",
+        "name": "NodeJs",
         "level": "55%"
+      },
+      {
+        "name": "ExpressJs",
+        "level": "60%"
+      },
+      {
+        "name": "GraphQl",
+        "level": "70%"
       },
       {
         "name": "HTML5",
@@ -87,40 +90,44 @@
       {
         "name": "MongoDB",
         "level": "80%"
+      },
+      {
+        "name": "Firebase",
+        "level": "70%"
       }
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "MERN Stack WhatsApp Clone",
-        "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "whatsapp-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=gzdQDxzW2Tw"
+        "title": "Dev Connector 2.0",
+        "category": "Dev connector 2.0 built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "dev-connactor.png",
+        "url": "https://devconnactor.herokuapp.com/"
       },
       {
-        "title": "MERN Stack TikTok Clone",
-        "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "tiktok-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
+        "title": "Cv Builder",
+        "category": "Cv builder built with ReactJS",
+        "image": "cv-bulder.png",
+        "url": "https://cv-builder-sabuj.netlify.app"
       },
       {
-        "title": "Facebook Clone with React",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "facebook-clone.png",
-        "url": "https://www.youtube.com/watch?v=B-kxUMHBxNo"
+        "title": "Agency with React",
+        "category": "Agency built with ReactJS",
+        "image": "agancy.png",
+        "url": "https://agency-sabuj.netlify.app"
       },
       {
-        "title": "Airbnb Clone",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "airbnb-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=BtJeH_-XYaA"
+        "title": "Corona update",
+        "category": "Corona Update built with ReactJS",
+        "image": "corona-update.png",
+        "url": "https://corona-update-sabuj.netlify.app/"
       },
       {
-        "title": "Netflix Clone",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "netflix-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s"
+        "title": "Parking+",
+        "category": "Parking+ built with (Html,Css,Js)",
+        "image": "parkingplus.png",
+        "url": "https://sabujhasansarker.github.io/Parking/"
       }
     ]
   },
