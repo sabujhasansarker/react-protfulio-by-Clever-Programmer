@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-protfulio-by-Clever-Programmer/static/css/main.5facb584.chunk.css",
+    "main.js": "/react-protfulio-by-Clever-Programmer/static/js/main.bd2a3079.chunk.js",
+    "main.js.map": "/react-protfulio-by-Clever-Programmer/static/js/main.bd2a3079.chunk.js.map",
+    "runtime-main.js": "/react-protfulio-by-Clever-Programmer/static/js/runtime-main.8cc30815.js",
+    "runtime-main.js.map": "/react-protfulio-by-Clever-Programmer/static/js/runtime-main.8cc30815.js.map",
+    "static/js/2.3ef2d018.chunk.js": "/react-protfulio-by-Clever-Programmer/static/js/2.3ef2d018.chunk.js",
+    "static/js/2.3ef2d018.chunk.js.map": "/react-protfulio-by-Clever-Programmer/static/js/2.3ef2d018.chunk.js.map",
+    "index.html": "/react-protfulio-by-Clever-Programmer/index.html",
+    "precache-manifest.c30f92215a28c4ca666358f70eefb5fb.js": "/react-protfulio-by-Clever-Programmer/precache-manifest.c30f92215a28c4ca666358f70eefb5fb.js",
+    "service-worker.js": "/react-protfulio-by-Clever-Programmer/service-worker.js",
+    "static/css/main.5facb584.chunk.css.map": "/react-protfulio-by-Clever-Programmer/static/css/main.5facb584.chunk.css.map",
+    "static/js/2.3ef2d018.chunk.js.LICENSE.txt": "/react-protfulio-by-Clever-Programmer/static/js/2.3ef2d018.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8cc30815.js",
+    "static/js/2.3ef2d018.chunk.js",
+    "static/css/main.5facb584.chunk.css",
+    "static/js/main.bd2a3079.chunk.js"
+  ]
+}
